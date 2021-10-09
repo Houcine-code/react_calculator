@@ -1,0 +1,35 @@
+#root{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+#calc{
+    width: 300px;
+    min-width: fit-content;
+    border-radius: 10px;
+    padding: 0;
+}
+.row {
+    margin:0;
+}
+.btn{
+    font-size: 30px;
+    color: white;
+}
+.screen{
+  background: linear-gradient(180deg, black, #313131);;
+  width: -webkit-fill-available;
+  padding: 2px 5px;
+  font-size: 20px;
+}
+.screen p {
+  padding: 5px;
+  margin:0;
+  color:white;
+}
+#container{
+  width: fit-content;
+  background: black;
+  border-radius: 15px;
+  padding: 0;
+}
