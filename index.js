@@ -290,7 +290,7 @@ var Calculator = /*#__PURE__*/function (_React$Component) {
           return _this2.handleOps("x");
         },
         id: "multiply"
-      }, "&times;"))), /*#__PURE__*/React.createElement("div", {
+      }, "\xD7"))), /*#__PURE__*/React.createElement("div", {
         className: "row"
       }, /*#__PURE__*/React.createElement("button", {
         className: "btn col",
